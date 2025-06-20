@@ -50,7 +50,7 @@ namespace GiantExtensionLaddersV2.Patches
             if (!isPocketed && !isHeld && !isHeldByEnemy && (!isBeingUsed || GiantExtensionLaddersV2.mySyncedConfigs.isCollectExtendedLaddersEnabled))
             {
                 item.transform.position = position;
-                item.FallToGround();
+                item.FallToGround(false, false, item.transform.position);
                 StartOfRound.Instance.localPlayerController.SetItemInElevator(true, false, item);
             }
         }

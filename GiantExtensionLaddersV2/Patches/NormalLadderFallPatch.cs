@@ -26,7 +26,7 @@ namespace GiantExtensionLaddersV2.Patches
                     {
                         if (isLadderOnAnotherLadder)
                         {
-                            __instance.FallToGround();
+                            __instance.FallToGround(false, false, base.transform.position);
                         }
                         isLadderOnAnotherLadder = false;
                     }

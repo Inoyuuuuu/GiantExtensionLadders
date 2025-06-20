@@ -56,6 +56,6 @@
 
     <!-- Secondary Package References - Libraries and APIs -->
     <ItemGroup>
-        <PackageReference Include="Evaisa.LethalLib" Version="0.*" PrivateAssets="all" />
+        <PackageReference Include="Evaisa.LethalLib" Version="1.1.1" PrivateAssets="all" />
     </ItemGroup>
 </Project>
