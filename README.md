@@ -1,29 +1,10 @@
-# More Sales Mod
-> This Mod is not actively being maintained and may be broken!\
-> The code on [this branch](https://github.com/Inoyuuuuu/MoreSalesMod/tree/postfix-rework) is more likely to work in newer Lethal Company versions!
-
-A very small mod that increases the chances amount of items on sale and the sale percentages.\
-I created this to learn more about Transpiler patching.
-
-#### Settings (adjustable in mod's configs)
-- set min/max amount of items on sale
-- adjust min/max sales percentages (0% - 100% discount)
-- adjust odds for higher/lower sale percentages
-- adjust odds for more/less items on sale
-- set all items on sale
-- disable sales completely
-
-#### Known Issues
-- does not work with mods that add custom items (e.g. LethalThings)
-  - I don't have a working solution for this yet
-
-[Thunderstore link](https://thunderstore.io/c/lethal-company/p/Inoyu/More_Sales/)
-
 # Giant Extension Ladders
 > This Mod is not actively being maintained, I work on this on my freetime, so things might be broken!\
 > Last version of the game this mod received major updates for: **v56**
 
 This is a unity-mod written in C# for the videogame "Lethal Company".\
+
+[Thunderstore link](https://thunderstore.io/c/lethal-company/p/Inoyu/Giant_Extension_Ladders/)
 
 ## Content
 > You can use an additional mod for faster climbing (I made this one "[Fast Climbing](https://thunderstore.io/c/lethal-company/p/Inoyu/Fast_Climbing/)", but there are a lot of other mods that'll work too).
