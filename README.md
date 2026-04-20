@@ -7,7 +7,7 @@ This is a unity-mod written in C# for the videogame "Lethal Company".
 [thunderstore link](https://thunderstore.io/c/lethal-company/p/Inoyu/Giant_Extension_Ladders/)
 
 ## Content
-> You can use an additional mod for faster climbing (I made this one "[Fast Climbing](https://thunderstore.io/c/lethal-company/p/Inoyu/Fast_Climbing/)", but there are a lot of other mods that'll work too).
+> You may want to use mods like [Fast Climbing](https://thunderstore.io/c/lethal-company/p/Inoyu/Fast_Climbing/) for faster climbing speeds
 - **Three giant ladders:**
   - Big ladder for climbing higher than usual
   - Huge ladder for climbing even higher
