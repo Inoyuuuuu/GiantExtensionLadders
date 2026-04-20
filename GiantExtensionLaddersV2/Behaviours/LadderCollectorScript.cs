@@ -128,7 +128,7 @@ namespace GiantExtensionLaddersV2.Behaviours
                 item.transform.localRotation = Quaternion.Euler(0, 0, 0);
                 item.transform.rotation = rotation;
 
-                item.FallToGround();
+                item.FallToGround(false, false, base.transform.position);
                 StartOfRound.Instance.localPlayerController.SetItemInElevator(wasPlayerInShipRoom, false, item);
 
                 yield return new WaitForSeconds(waitBetweenTeleport);

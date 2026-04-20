@@ -110,7 +110,6 @@ namespace GiantExtensionLaddersV2.Behaviours
 
             if (this.playerHeldBy == null && !this.isHeld && !this.isHeldByEnemy && this.reachedFloorTarget && this.ladderActivated)
             {
-
                 if (Physics.Raycast(base.transform.position, Vector3.down, out var hitInfo, 80f, 0, QueryTriggerInteraction.Ignore))
                 {
                     if (hitInfo.collider.GetComponentInParent<LadderItemScript>() != null)
@@ -121,7 +120,7 @@ namespace GiantExtensionLaddersV2.Behaviours
                     {
                         if (isOnAnotherLadder)
                         {
-                            FallToGround();
+                            FallToGround(false, false, base.transform.position);
                         }
                         isOnAnotherLadder = false;
                     }

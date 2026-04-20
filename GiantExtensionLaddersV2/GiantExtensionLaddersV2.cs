@@ -59,7 +59,6 @@ namespace GiantExtensionLaddersV2
         internal static bool isBuildSuccess = true;
 
         internal static bool isPlayerOnTinyLadder = false;
-
         internal static GiantExtensionLaddersV2 Instance { get; private set; } = null!;
         internal static ManualLogSource mls { get; private set; } = null!;
         internal static Harmony? Harmony { get; set; }

@@ -47,7 +47,7 @@
         <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" PrivateAssets="all" />
         <PackageReference Include="LethalCompany.GameLibs.Steam" Version="*-*" PrivateAssets="all" />
         <PackageReference Include="Sigurd.BepInEx.CSync" Version="5.0.1" />
-        <PackageReference Include="UnityEngine.Modules" Version="2022.3.9" IncludeAssets="compile" PrivateAssets="all" />
+        <PackageReference Include="UnityEngine.Modules" Version="2022.3.62" IncludeAssets="compile" PrivateAssets="all" />
     </ItemGroup>
 
     <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
@@ -56,6 +56,6 @@
 
     <!-- Secondary Package References - Libraries and APIs -->
     <ItemGroup>
-        <PackageReference Include="Evaisa.LethalLib" Version="0.*" PrivateAssets="all" />
+        <PackageReference Include="Evaisa.LethalLib" Version="1.2.0" PrivateAssets="all" />
     </ItemGroup>
 </Project>
