@@ -1,6 +1,6 @@
 # Giant Extension Ladders
-> This Mod is not actively being maintained, I work on this on my freetime, so things might be broken!\
-> Last version of the game this mod received major updates for: **v56**
+> I work on this on my freetime, so things might be broken or not up to date!\
+> Last tested and working on game version: **v56**
 
 This is a unity-mod written in C# for the videogame "Lethal Company".
 
