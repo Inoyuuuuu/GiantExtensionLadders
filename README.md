@@ -2,9 +2,9 @@
 > This Mod is not actively being maintained, I work on this on my freetime, so things might be broken!\
 > Last version of the game this mod received major updates for: **v56**
 
-This is a unity-mod written in C# for the videogame "Lethal Company".\
+This is a unity-mod written in C# for the videogame "Lethal Company".
 
-[Thunderstore link](https://thunderstore.io/c/lethal-company/p/Inoyu/Giant_Extension_Ladders/)
+[thunderstore link](https://thunderstore.io/c/lethal-company/p/Inoyu/Giant_Extension_Ladders/)
 
 ## Content
 > You can use an additional mod for faster climbing (I made this one "[Fast Climbing](https://thunderstore.io/c/lethal-company/p/Inoyu/Fast_Climbing/)", but there are a lot of other mods that'll work too).
